@@ -2,7 +2,7 @@
     font-family: 'new-gen';
     font-style: normal;
     src: local("new-gen"),
-         url("fonts/new-gen.woff") format("woff");
+         url("../fonts/new-gen.woff") format("woff");
   }
 
   body {
